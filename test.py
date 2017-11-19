@@ -1,4 +1,1 @@
-test
-测试
-testtest
-testtest
+print('hello, world')
